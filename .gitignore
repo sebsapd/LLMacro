@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+todo.md
+ui/main_window.ui
+ui/resources.qrc
